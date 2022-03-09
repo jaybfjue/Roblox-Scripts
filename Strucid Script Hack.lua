@@ -51,7 +51,7 @@ local ClickTeleport = false;
 local CanCollideX = false;
 		--Teleporting
 local UnderMap = false;
-local Everything = false;
+local Everything = true;
 		--Map Destruction
 local DelEverything = false;
 local DelRamps = false;
@@ -62,7 +62,7 @@ local Automatic = false;
 local Recoil = false;
 local Accuracy = false;
 local BulletMultiplier = false;
-local OneShot = false;
+local OneShot = true;
 local Debounce = false;
 local MaxAmmo = false ;
 
